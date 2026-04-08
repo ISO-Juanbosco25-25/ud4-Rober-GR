@@ -1,7 +1,7 @@
 # ❌ ERRORES DETECTADOS EN EL MONTAJE
 
-## 👨‍💻 Alumno:
-## 🖥️ Equipo:
+## 👨‍💻 Alumno:Roberto Gonzalez Roman Garcia de Leon
+## 🖥️ Equipo: Ordenador n06
 
 ---
 
@@ -23,74 +23,113 @@ Debes documentar al menos **3 errores**:
 # 🔴 ERROR 1
 
 📌 Descripción:
-(¿Qué ha ocurrido?)
+Los módulos de memoria RAM no estaban correctamente encajados en las ranuras DIMM. El PC no arrancaba y emitía pitidos continuos
 
 📌 Tipo:
-(Real / Simulado)
+Simulado
 
 📌 Fase del montaje:
-(Ejemplo: instalación de RAM, cableado, etc.)
+Instalación de la memoria RAM
 
 📌 Causa:
-(¿Por qué ocurre?)
+El módulo no se presionó lo suficiente hasta escuchar el “clic” de los anclajes laterales.
+Además, se colocó en una ranura incorrecta, rompiendo la configuración de doble canal.
 
 📌 Consecuencia:
-(¿Qué problema provoca?)
+El equipo no inicia (pantalla negra).
+
+La placa base emite códigos acústicos de error.
+
+El rendimiento sería menor si solo funcionara un módulo.
 
 📌 Solución aplicada o propuesta:
-(¿Cómo se soluciona?)
+Retirar la RAM.
+
+Revisar la orientación (muesca).
+
+Insertarla firmemente hasta que los clips laterales cierren solos.
+
+Colocar los módulos en los slots recomendados (A2 y B2 normalmente).)
 
 📌 ¿Cómo prevenirlo?
-(Qué harías para evitarlo)
+Comprobar la guía de la placa base.
 
-📸 Evidencia (si aplica):
+Asegurarse de que los clips laterales cierran automáticamente.
 
----
+Aplicar presión uniforme en ambos extremos del módulo.
+
+
 
 # 🔴 ERROR 2
 
-📌 Descripción:
+📌 Descripción: El cable de alimentación de la CPU (EPS 8‑pin) no estaba conectado. Solo se conectó el cable ATX de 24 pines.
 
-📌 Tipo:
+📌 Tipo: Simulado
 
-📌 Fase del montaje:
+📌 Fase del montaje: Cableado de la fuente de alimentación
 
-📌 Causa:
+📌 Causa: Confusión entre los distintos conectores de la fuente.
+El cable EPS suele estar en la parte superior de la placa y puede pasar desapercibido.
 
-📌 Consecuencia:
+📌 Consecuencia: El PC enciende un segundo y se apaga.
 
-📌 Solución:
+No hay señal de vídeo.
 
-📌 Prevención:
+La placa no puede alimentar el procesador.
 
-📸 Evidencia:
+📌 Solución: Localizar el conector EPS (4+4 pines).
 
----
+Conectarlo en la parte superior de la placa base.
+
+Asegurar que está bien fijado.
+
+📌 Prevención: Revisar el manual de la placa base.
+
+Identificar todos los conectores antes de empezar.
+
+Seguir un orden lógico: primero CPU, luego GPU, luego periféricos.
+
 
 # 🔴 ERROR 3
 
-📌 Descripción:
+📌 Descripción: Se aplicó demasiada pasta térmica sobre el procesador, provocando que rebosara por los lados al colocar el disipador.
 
-📌 Tipo:
+📌 Tipo: Simulado
 
-📌 Fase del montaje:
+📌 Fase del montaje: Instalación del disipador 
 
-📌 Causa:
+📌 Causa: Uso excesivo de pasta térmica.
+Se aplicó una capa completa en lugar de un punto del tamaño de un guisante.
 
-📌 Consecuencia:
+📌 Consecuencia: Peor transferencia térmica.
 
-📌 Solución:
+Temperaturas más altas de lo normal.
 
-📌 Prevención:
+Riesgo de ensuciar el socket o componentes cercanos.
 
-📸 Evidencia:
+📌 Solución: Retirar el disipador.
 
----
+Limpiar CPU y disipador con alcohol isopropílico.
+
+Aplicar la cantidad correcta (punto central).
+
+Reinstalar el disipador.
+
+📌 Prevención: Conocer la cantidad adecuada según el tipo de pasta.
+
+No extenderla manualmente.
+
+Dejar que la presión del disipador la distribuya
+
+
 
 # 🧠 REFLEXIÓN FINAL
 
 - ¿Qué error te parece más grave? ¿Por qué?
+ El error más grave es no conectar el cable EPS de la CPU, porque impide totalmente el arranque del sistema y puede generar confusión al diagnosticar el fallo. Además, puede llevar a pensar que la placa base está defectuosa
 
 - ¿Qué error es más común en principiantes?
+  El más común es no insertar correctamente la RAM. Es un fallo típico porque requiere aplicar más presión de la que la gente espera y los clips no siempre cierran solos si no está bien alineada.
 
 - ¿Qué has aprendido sobre la importancia de montar correctamente un equipo?
+  He aprendido que un montaje correcto evita fallos críticos, mejora el rendimiento y alarga la vida útil del equipo. También he comprendido que seguir un orden, revisar los manuales y comprobar cada conexión es esencial para evitar errores que pueden ser difíciles de diagnosticar después.
