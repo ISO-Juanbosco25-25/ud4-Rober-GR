@@ -19,71 +19,73 @@ Completa los siguientes apartados con buenas prácticas que has aplicado o que c
 
 # 🔌 1. SEGURIDAD
 
-- 
-- 
-- 
+Descargar la electricidad estática tocando una superficie metálica antes de manipular componentes.
 
-💡 Ejemplo: descargar electricidad estática antes de manipular componentes
+Trabajar siempre con el equipo desconectado de la corriente.
+
+Manipular los componentes por los bordes para evitar dañar circuitos o contactos.
+
 
 ---
 
 # 🧰 2. USO DE HERRAMIENTAS
 
-- 
-- 
-- 
+Utilizar destornilladores imantados para evitar que los tornillos caigan sobre la placa.
 
-💡 Ejemplo: usar herramientas adecuadas para no dañar los componentes
+Usar solo herramientas adecuadas (nada de objetos improvisados).
+
+Mantener las herramientas ordenadas y accesibles para evitar golpes o pérdidas.
 
 ---
 
 # 🧩 3. MONTAJE DE COMPONENTES
 
-- 
-- 
-- 
+No forzar ningún componente: si no encaja, revisar la orientación.
 
-💡 Ejemplo: no forzar los componentes al instalarlos
+Seguir el orden recomendado: CPU → RAM → disipador → placa en la caja → GPU → cables.
+
+Comprobar que los clips, anclajes y tornillos quedan bien fijados sin apretar en exceso.
 
 ---
 
 # 🔌 4. CONEXIONES Y CABLEADO
 
-- 
-- 
-- 
+Verificar cada conexión siguiendo el manual de la placa base.
 
-💡 Ejemplo: comprobar todas las conexiones antes de encender
+Asegurar que los cables ATX 24‑pin, EPS CPU y PCIe están bien insertados.
+
+Realizar una gestión de cables limpia para evitar tirones y mejorar el flujo de aire.
 
 ---
 
 # 🌡️ 5. ORGANIZACIÓN Y VENTILACIÓN
 
-- 
-- 
-- 
+Mantener los cables recogidos con bridas para no bloquear ventiladores.
 
-💡 Ejemplo: ordenar los cables para facilitar el flujo de aire
+Colocar los ventiladores en la orientación correcta (entrada y salida de aire).
+
+Evitar acumular polvo durante el montaje limpiando la zona de trabajo.
+
 
 ---
 
 # 🧠 6. COMPROBACIONES FINALES
 
-- 
-- 
-- 
+Revisar visualmente que todos los componentes están bien asentados.
 
-💡 Ejemplo: revisar que todo está bien conectado antes del primer arranque
+Comprobar que no hay tornillos sueltos dentro de la caja.
+
+Encender el equipo por primera vez sin cerrar la tapa para verificar que todo funciona.
 
 ---
 
 # 💼 7. ACTITUD PROFESIONAL
 
-- 
-- 
-- 
+Trabajar con orden, limpieza y cuidado del material.
 
-💡 Ejemplo: trabajar con orden, limpieza y cuidado del material
+Mantener una postura calmada y metódica, sin prisas.
+
+Documentar cualquier incidencia o duda durante el montaje.
 
 ---
 
@@ -91,7 +93,14 @@ Completa los siguientes apartados con buenas prácticas que has aplicado o que c
 
 - ¿Por qué es importante seguir buenas prácticas en el montaje?
 
+Porque garantizan la seguridad del técnico, evitan daños en los componentes y aseguran que el equipo funcione correctamente desde el primer arranque
+
+
 - ¿Qué puede pasar si no se siguen?
+
+Pueden producirse fallos de arranque, sobrecalentamientos, cortocircuitos, pérdida de tiempo en diagnósticos o incluso daños irreversibles en el hardware
+
 
 - ¿Cuál crees que es la práctica más importante? ¿Por qué?
 
+La descarga de electricidad estática es una de las más importantes, porque un simple chispazo puede dañar componentes sensibles como la RAM, la CPU o la placa base sin que sea visible a simple vista
