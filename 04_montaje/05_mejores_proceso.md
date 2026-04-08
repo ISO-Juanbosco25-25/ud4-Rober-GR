@@ -76,11 +76,8 @@ La falta de organización provoca confusiones con los conectores (como el EPS de
 
 📌 ¿Cómo lo harías mejor?
     Colocar todos los componentes sobre la mesa y clasificarlos.
-
     Separar los cables de la fuente por tipo: ATX 24‑pin, EPS CPU, PCIe GPU, SATA, etc.
-
     Revisar el manual de la placa base para identificar dónde va cada uno.
-
     Seguir un orden lógico: CPU → RAM → placa en la caja → fuente → cableado.
 
 📌 Beneficio:
