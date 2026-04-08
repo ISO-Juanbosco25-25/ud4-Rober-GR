@@ -1,7 +1,7 @@
 # 🔍 ANÁLISIS DEL VÍDEO DE MONTAJE
 
-## 👨‍💻 Alumno:
-## 🖥️ Equipo:
+## 👨‍💻 Alumno:Roberto Gonzalez Roman Garcia de Leon
+## 🖥️ Equipo: Ordenador n06
 
 ---
 
